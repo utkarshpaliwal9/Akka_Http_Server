@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: jwt-core
+Specification-Version: 2.1.0
+Specification-Vendor: com.pauldijou
+Implementation-Title: jwt-core
+Implementation-Version: 2.1.0
+Implementation-Vendor: com.pauldijou
+Implementation-Vendor-Id: com.pauldijou
+Implementation-URL: http://pauldijou.fr/jwt-scala/
+
